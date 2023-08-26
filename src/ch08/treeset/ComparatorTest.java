@@ -1,4 +1,4 @@
-package ch08;
+package ch08.treeset;
 
 import java.util.Comparator;
 import java.util.Set;
